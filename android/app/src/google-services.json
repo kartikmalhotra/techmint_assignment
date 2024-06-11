@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996995483150",
+    "project_id": "disco-bridge-425807-k1",
+    "storage_bucket": "disco-bridge-425807-k1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996995483150:android:e609e8f52ba72741885e5f",
+        "android_client_info": {
+          "package_name": "com.example.google_drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996995483150-clhe1grcuurovtc5qna3hfjav6g37fdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_drive",
+            "certificate_hash": "75dd8655ec168b1d37b1babc9bf39fc042ac74e8"
+          }
+        },
+        {
+          "client_id": "996995483150-n2vf351bplgg14qh70r9oep0g7q8gp2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MsHlZpxks2ELXnorZUcH4pkJiHZgXew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996995483150-n2vf351bplgg14qh70r9oep0g7q8gp2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
